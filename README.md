@@ -8,7 +8,7 @@ Its much more fun with the [demo](http://material-angular-dashboard.creativeit.i
 
 Material admin template is absolutely free for commercial usage theme, based on Google Material Design guidelines.
 
-> **Important**: We are still working on the project and there will be much more awesome, check out our [issues](https://github.com/CreativeIT/material-angular-dashboard/issues) to see what features are coming soon.
+> **Important**: We are still working on the project and there will be much more awesome, check out our [issues] to see what features are coming soon.
 
 # SETUP and USAGE
 
@@ -16,9 +16,6 @@ The steps below will take you through cloning your own fork, installing dependen
 
 1. Fork and/or clone our repository. To use Git from command line, see the [Setting up Git](https://help.github.com/articles/set-up-git/) and [Fork repo](https://help.github.com/articles/fork-a-repo/) articles.
 
-```bash
-git clone https://github.com/CreativeIT/material-angular-dashboard.git
-```
 
 2. Open your copied repo folder in terminal and install necessary modules with command, make sure that you have installed [npm](https://www.npmjs.com/get-npm):
 
@@ -56,7 +53,6 @@ Run `npm run build` or `ng build` to build the project. The build artifacts will
 
 * [ag-Grid](https://www.ag-grid.com)
 
-* [material-angular-select](https://github.com/CreativeIT/material-angular-select)
 
 * MIT License
 
@@ -68,14 +64,14 @@ Project uses [d3](https://d3js.org/) and [nvd3](http://nvd3.org/) to build chart
 
 # Quick start
 Do you want to start quickly and don't need all the pages and modules? You can checkout to empty 
-[starter-kit branch](https://github.com/CreativeIT/material-angular-dashboard/tree/starter-kit) and get to work!
+[starter-kit branch]and get to work!
 
 If you need full-stack solution with authentication ability and routing, checkout
-[feature/backend branch](https://github.com/CreativeIT/material-angular-dashboard/tree/feature/backend) with preconfigured Node.js backend.
+[feature/backend branch] with preconfigured Node.js backend.
 You can also try the [demo](http://dashboard-auth-demo.creativeit.io) (user: admin@admin.admin , password: admin).
 
 You can also try dashboard powered with [AWS Lambda](https://aws.amazon.com/lambda/). This allows you to easily deploy your application without the need for a dedicated server.
-Checkout [feature/serverless branch](https://github.com/CreativeIT/material-angular-dashboard/tree/feature/serverless) to see the details or try the [demo](https://g5ope910kg.execute-api.eu-central-1.amazonaws.com/production/) (user: admin@admin.admin , password: admin) to make sure that this is no different from the classic approach.
+Checkout [feature/serverless branch] to see the details or try the [demo](https://g5ope910kg.execute-api.eu-central-1.amazonaws.com/production/) (user: admin@admin.admin , password: admin) to make sure that this is no different from the classic approach.
 
 # Hire us
 
@@ -83,7 +79,7 @@ We are ready to become a strong development partner and bring competitive advant
 
 # Credits
 
-Material Angular Dashboard was inspired by [html5 material dashboard](https://github.com/CreativeIT/material-dashboard-lite)
+Material Angular Dashboard was inspired by [html5 material dashboard]
 
 Designed with passion and coffee by CreativeIT.
 
@@ -93,4 +89,3 @@ Designed with passion and coffee by CreativeIT.
 
 * Create an issue report or feature request
 
-* Follow us on [Twitter](https://twitter.com/intent/follow?screen_name=CreativeITeam)

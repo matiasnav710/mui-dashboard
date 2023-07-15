@@ -25,13 +25,8 @@
   "pre-commit": "lint",
   "private": true,
   "repository": {
-    "type": "git",
-    "url": "https://github.com/CreativeIT/material-angular-dashboard"
+    "type": "git"
   },
-  "bugs": {
-    "url": "https://github.com/CreativeIT/material-angular-dashboard/issues"
-  },
-  "homepage": "https://github.com/CreativeIT/material-angular-dashboard",
   "dependencies": {
     "@angular/animations": "10.0.8",
     "@angular/common": "10.0.8",
